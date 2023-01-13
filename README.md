@@ -8,6 +8,6 @@ I'm a product person and security researcher with a focus on software supply cha
 - 🌱 I’m currently learning about product management and UX design
 - :round_pushpin: I'm currently living in Panama City Beach, Florida
 - 📫 You can reach me via [my website](https://bryancowan.com/)
-- 💬 Ask me about Grace Jones
+- 💬 Ask me about Grace Jones an AI art
 - 😄 Pronouns: he/him
 - :headphones: I enjoy podcasts like :rainbow:[ATP](https://atp.fm/), :rocket:[Rocket](https://www.relay.fm/rocket), and :clapper:[The Flop House](https://maximumfun.org/podcasts/flop-house/) 
