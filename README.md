@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Bryan. You can find me mostly on [Mastodon](https://infosec.exchange/@bryancowan), [Threads](https://www.threads.net/@bryancowan), or [LinkedIn](https://www.linkedin.com/in/bryancowan/).
+I'm Bryan. You can find me mostly on [Mastodon](https://infosec.exchange/@bryancowan), [Bluesky](https://bsky.app/profile/bryancowan.bsky.social), [Threads](https://www.threads.net/@bryancowan), or [LinkedIn](https://www.linkedin.com/in/bryancowan/).
 
 I'm a product person and security researcher with a focus on software supply chain security. Working at [Fortress InfoSec](https://www.fortressinfosec.com/home).
 
